@@ -37,12 +37,12 @@ function loadNavbar() {
     let baseUrl;
 
     if (hostname === 'localhost' || hostname === '127.0.0.1') {
-        baseUrl = 'http://localhost:8000';
+        baseUrl = 'http://localhost:8000/';
     } else {
-        baseUrl = 'http://192.168.3.34:8000';
+        baseUrl = '';
     }
 
-    fetch(`${baseUrl}/navbar.html`)
+    fetch(`${baseUrl}navbar.html`)
         .then(response => {
             if (!response.ok) {
                 throw new Error('Network response was not ok ' + response.statusText);
