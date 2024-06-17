@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     align-items: center;
-    display: block;
+    display: grid;
 }
 
 .map-container {
@@ -40,7 +40,6 @@ body {
     justify-content: center;
     align-items: center;
     margin-top: 20px;
-    position: relative;
 }
 
 .slide {
