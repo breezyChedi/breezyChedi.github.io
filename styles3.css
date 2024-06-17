@@ -1,5 +1,7 @@
 body {
     font-family: Arial, sans-serif;
+    align-items: center;
+    display: block;
 }
 
 .map-container {
@@ -32,7 +34,9 @@ body {
 }
 
 .slideshow-container {
+    padding: 1rem;
     display: flex;
+    margin: 1rem;
     justify-content: center;
     align-items: center;
     margin-top: 20px;
@@ -54,7 +58,7 @@ body {
 .prev, .next {
     cursor: pointer;
     position: absolute;
-    top: 50%;
+    top: 5rem;
     width: auto;
     padding: 16px;
     margin-top: -22px;
