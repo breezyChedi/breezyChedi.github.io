@@ -496,31 +496,11 @@
                 });
             });
         });
-        const slides = [
-            {
-                image: 'newMap.png',
-                label: 'Label 1',
-                description: 'Description for Item 1.'
-            },
-            {
-                image: 'path/to/image2.jpg',
-                label: 'Label 2',
-                description: 'Description for Item 2.'
-            },
-            {
-                image: 'path/to/image3.jpg',
-                label: 'Label 3',
-                description: 'Description for Item 3.'
-            }
-        ];
+       
 
         let currentSlideIndex = 0;
 
-        function showSlide(index) {
-            const slide = slides[index];
-            document.getElementById('slide-label').textContent = slide.label;
-            document.getElementById('slide-description').textContent = slide.description;
-        }
+        
 
         function nextSlide() {
             currentSlideIndex = (currentSlideIndex + 1) % slides.length;
