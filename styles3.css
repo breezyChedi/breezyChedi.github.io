@@ -56,8 +56,8 @@ body {
 
 .prev, .next {
     cursor: pointer;
-    position: relative;
-    top: 1rem;
+    position: fixed;
+    top: 22rem;
     width: auto;
     padding: 16px;
     margin-top: -22px;
