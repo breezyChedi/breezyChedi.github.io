@@ -1,0 +1,23 @@
+Application: HOI4 
+Version: Bolivar v1.14.4.d429 
+Date/Time: 2024-04-14 19:33:04
+
+Unhandled Exception C0000005 (EXCEPTION_ACCESS_VIOLATION) at address 0x00007FF79E38DE4C
+
+Stack Trace: 
+  1    hoi4.exe                 PHYSFS_swapULE64 (+ 4224860)
+  2    hoi4.exe                 PHYSFS_swapULE64 (+ 2471603)
+  3    hoi4.exe                 PHYSFS_swapULE64 (+ 2470561)
+  4    hoi4.exe                 PHYSFS_swapULE64 (+ 3070823)
+  5    hoi4.exe                 PHYSFS_swapSLE32 (+ 2098574)
+  6    hoi4.exe                 PHYSFS_swapULE64 (+ 3054340)
+  7    hoi4.exe                 PHYSFS_swapULE64 (+ 3052671)
+  8    hoi4.exe                 (function-name not available) (+ 0)
+  9    hoi4.exe                 (function-name not available) (+ 0)
+  10   hoi4.exe                 (function-name not available) (+ 0)
+  11   hoi4.exe                 (function-name not available) (+ 0)
+  12   hoi4.exe                 PHYSFS_writeUBE16 (+ 443602)
+  13   hoi4.exe                 PHYSFS_writeUBE16 (+ 562)
+  14   KERNEL32.DLL             BaseThreadInitThunk (+ 29)
+  15   ntdll.dll                RtlUserThreadStart (+ 40)
+  16   ntdll.dll                RtlUserThreadStart (+ 40)

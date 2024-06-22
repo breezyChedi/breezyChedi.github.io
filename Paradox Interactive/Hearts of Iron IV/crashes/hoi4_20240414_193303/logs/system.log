@@ -1,0 +1,66 @@
+[19:32:33][no_game_date][systemsettings.cpp:162]: OS: Windows 11 x86_64
+[19:32:33][no_game_date][systemsettings.cpp:163]: OS Lang: en
+[19:32:33][no_game_date][systemsettings.cpp:164]: CPU Model: 13th Gen Intel(R) Core(TM) i7-13620H
+[19:32:33][no_game_date][systemsettings.cpp:165]: Number of cores: 10 (16)
+[19:32:33][no_game_date][systemsettings.cpp:167]: Estimated CPU speed: 0MHz
+[19:32:33][no_game_date][systemsettings.cpp:168]: System memory: 16087MB
+[19:32:33][no_game_date][gfx_dx11.cpp:3497]: GetGraphicsSettings for Adapter: 0
+[19:32:33][no_game_date][gfx_dx11.cpp:3530]: Found Adapter: NVIDIA GeForce RTX 4060 Laptop GPU
+[19:32:33][no_game_date][gfx_dx11.cpp:3553]: Using Adapter [0] to check for multi-sampling support:
+[19:32:33][no_game_date][gfx_dx11.cpp:3591]: Found available multisampling mode: 2 at Quality: 0
+[19:32:33][no_game_date][gfx_dx11.cpp:3591]: Found available multisampling mode: 4 at Quality: 0
+[19:32:33][no_game_date][gfx_dx11.cpp:3591]: Found available multisampling mode: 8 at Quality: 0
+[19:32:33][no_game_date][graphicssettings.cpp:201]: 	2 samples supported.
+[19:32:33][no_game_date][graphicssettings.cpp:201]: 	4 samples supported.
+[19:32:33][no_game_date][graphicssettings.cpp:201]: 	8 samples supported.
+[19:32:33][no_game_date][graphicssettings.cpp:239]: Video adapter: NVIDIA GeForce RTX 4060 Laptop GPU
+[19:32:33][no_game_date][graphicssettings.cpp:240]: Video driver: DirectX 11
+[19:32:33][no_game_date][graphicssettings.cpp:241]: Video driver version: 0.0.0.0
+[19:32:33][no_game_date][graphicssettings.cpp:242]: Video memory: 7971
+[19:32:33][no_game_date][graphicssettings.cpp:243]: Support for Anisotropic filtering found.
+[19:32:33][no_game_date][graphicssettings.cpp:247]: 	Max Anisotropic filtering supported: 16
+[19:32:33][no_game_date][graphicssettings.cpp:248]: 	Anisotropic filtering set to: 4
+[19:32:41][no_game_date][main.cpp:1900]: Creating application...
+[19:32:41][no_game_date][gameapplication.cpp:1182]: Initializing application...
+[19:32:42][no_game_date][gameapplication.cpp:1188]: Done initializing application
+[19:32:42][no_game_date][gameapplication.cpp:1191]: Loading cursor...
+[19:32:42][no_game_date][graphicssettings.cpp:780]: Using multisampling: 4
+[19:32:42][no_game_date][graphics.cpp:982]: Creating device with: HARDWARE_VERTEXPROCESSING
+	Fullscreen=no
+	Resolution=1536x864
+	Renderer=DirectX 11
+[19:32:42][no_game_date][graphicssettings.cpp:748]: Usable res: 640 480 144
+[19:32:42][no_game_date][graphicssettings.cpp:748]: Usable res: 640 480 60
+[19:32:42][no_game_date][graphicssettings.cpp:748]: Usable res: 800 600 144
+[19:32:42][no_game_date][graphicssettings.cpp:748]: Usable res: 800 600 60
+[19:32:42][no_game_date][graphicssettings.cpp:748]: Usable res: 1024 768 144
+[19:32:42][no_game_date][graphicssettings.cpp:748]: Usable res: 1024 768 60
+[19:32:42][no_game_date][graphicssettings.cpp:748]: Usable res: 1152 864 144
+[19:32:42][no_game_date][graphicssettings.cpp:748]: Usable res: 1152 864 60
+[19:32:42][no_game_date][graphicssettings.cpp:748]: Usable res: 1280 600 144
+[19:32:42][no_game_date][graphicssettings.cpp:748]: Usable res: 1280 600 60
+[19:32:42][no_game_date][graphicssettings.cpp:748]: Usable res: 1280 720 144
+[19:32:42][no_game_date][graphicssettings.cpp:748]: Usable res: 1280 720 60
+[19:32:42][no_game_date][graphicssettings.cpp:748]: Usable res: 1280 768 144
+[19:32:42][no_game_date][graphicssettings.cpp:748]: Usable res: 1280 768 60
+[19:32:42][no_game_date][graphicssettings.cpp:748]: Usable res: 1280 800 144
+[19:32:42][no_game_date][graphicssettings.cpp:748]: Usable res: 1280 800 60
+[19:32:42][no_game_date][graphicssettings.cpp:748]: Usable res: 1280 960 144
+[19:32:42][no_game_date][graphicssettings.cpp:748]: Usable res: 1280 960 60
+[19:32:42][no_game_date][graphicssettings.cpp:748]: Usable res: 1280 1024 144
+[19:32:42][no_game_date][graphicssettings.cpp:748]: Usable res: 1280 1024 60
+[19:32:42][no_game_date][graphicssettings.cpp:748]: Usable res: 1360 768 144
+[19:32:42][no_game_date][graphicssettings.cpp:748]: Usable res: 1360 768 60
+[19:32:42][no_game_date][graphicssettings.cpp:748]: Usable res: 1366 768 144
+[19:32:42][no_game_date][graphicssettings.cpp:748]: Usable res: 1366 768 60
+[19:32:42][no_game_date][graphicssettings.cpp:748]: Usable res: 1400 1050 144
+[19:32:42][no_game_date][graphicssettings.cpp:748]: Usable res: 1400 1050 60
+[19:32:42][no_game_date][graphicssettings.cpp:748]: Usable res: 1440 900 144
+[19:32:42][no_game_date][graphicssettings.cpp:748]: Usable res: 1440 900 60
+[19:32:42][no_game_date][graphicssettings.cpp:748]: Usable res: 1600 900 144
+[19:32:42][no_game_date][graphicssettings.cpp:748]: Usable res: 1600 900 60
+[19:32:42][no_game_date][graphicssettings.cpp:748]: Usable res: 1680 1050 144
+[19:32:42][no_game_date][graphicssettings.cpp:748]: Usable res: 1680 1050 60
+[19:32:42][no_game_date][graphicssettings.cpp:748]: Usable res: 1920 1080 144
+[19:32:42][no_game_date][graphicssettings.cpp:748]: Usable res: 1920 1080 60
+[19:32:42][no_game_date][graphics.cpp:1017]: Done creating device.

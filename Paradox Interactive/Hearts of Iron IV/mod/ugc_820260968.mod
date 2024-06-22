@@ -1,0 +1,18 @@
+version="1.14.*"
+tags={
+	"Alternative History"
+	"Balance"
+	"Events"
+	"Gameplay"
+	"Graphics"
+	"Historical"
+	"Ideologies"
+	"National Focuses"
+	"Technologies"
+}
+name="The Road to 56"
+replace_path="history/states"
+replace_path="map/strategicregions"
+supported_version="1.14.4"
+path="C:/Program Files (x86)/Steam/steamapps/workshop/content/394360/820260968"
+remote_file_id="820260968"

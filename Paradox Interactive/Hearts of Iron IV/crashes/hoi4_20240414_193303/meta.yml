@@ -1,0 +1,26 @@
+# Crash Information
+AppName: HOI4 
+AppVersion: Bolivar v1.14.4.d429 
+SCMBranch: HEAD 
+SCMCommit: d4295be36ee2d0a4af15a824edf92afe6521b754 
+SCMTimeStamp: "2024-04-05 09:11:57 +0000" 
+DateTime: "2024-04-14 19:33:03 +0200" 
+BuildType: Release 
+Platform: Windows 
+Architecture: 64-bit 
+OperatingSystem: Windows 11 x86_64 
+SystemLanguage: en 
+CPUModel: 13th Gen Intel(R) Core(TM) i7-13620H 
+CPUSpeed: 0 
+CPUPhysicalCores: 10 
+CPULogicalCores: 16 
+SystemMemory: 16087 
+LaunchArguments: --gdpr-compliant 
+
+# Application Specific Data 
+IsLiveBuild: true 
+DataChecksum: 
+AppChecksum: 
+HasMods: true
+Mods: *UMC* Germany Completed BlackICE - GFX and Sounds BlackICE Event-GFX BlackICE Historical Immersion Mod Cold War Iron Curtain: A World Divided Hearts of Iron IV: The Great War Immersive Cities Lord of the Rings Mod Millennium Dawn: A Modern Day Mod New Nations for Immersive Cities No Mans Land The Road to 56
+IsOldSave: false

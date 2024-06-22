@@ -1,0 +1,62 @@
+[23:27:32][no_game_date][defines.cpp:249]: 3837 defines loaded
+[23:27:42][no_game_date][gamestate.cpp:2815]: Loaded 13363 provinces.
+[23:27:43][no_game_date][gameapplication.cpp:2751]: Resetting game
+[23:27:44][1936.01.01.12][history.cpp:163]: Executing History from -1.1.1.1 to  2.1.1.1
+[23:27:44][1936.01.01.12][history.cpp:163]: Executing History from 2.1.1.1 to  1936.1.1.12
+[23:27:49][1941.05.10.16][frontend.cpp:670]: 
+
+		[[ Launching SINGLEPLAYER-game ]]
+	Start-date: 1941.5.10.16
+
+[23:27:50][1941.05.10.16][ingameidler.cpp:5039]: Start RestoreDeviceObjects
+[23:27:51][1941.05.10.16][ingameidler.cpp:5189]: End RestoreDeviceObjects
+[23:33:46][1941.05.16.02][effectbase.cpp:1691]: Japanese Shogunate is declaring war on Union of Soviet Republics
+[23:33:47][1941.05.17.03][effectbase.cpp:1691]: German Reich is declaring war on Union of Soviet Republics
+[23:33:47][1941.05.17.03][effectbase.cpp:1691]: Slovakia is declaring war on Union of Soviet Republics
+[23:33:47][1941.05.17.03][effectbase.cpp:1691]: Italy is declaring war on Union of Soviet Republics
+[23:33:47][1941.05.17.03][effectbase.cpp:1691]: Yugoslavia is declaring war on Union of Soviet Republics
+[23:33:47][1941.05.17.03][effectbase.cpp:1691]: Legionary Romania is declaring war on Union of Soviet Republics
+[23:33:47][1941.05.17.03][effectbase.cpp:1691]: Albania is declaring war on Union of Soviet Republics
+[23:33:47][1941.05.17.03][effectbase.cpp:1691]: Italian East Africa is declaring war on Union of Soviet Republics
+[23:45:11][1941.05.18.02][effectbase.cpp:1691]: Mengkukuo is declaring war on Union of Soviet Republics
+[23:46:02][1941.05.19.03][effectbase.cpp:1691]: Italy is declaring war on Chile
+[23:46:02][1941.05.19.03][effectbase.cpp:1691]: Italian East Africa is declaring war on Chile
+[23:46:02][1941.05.19.03][effectbase.cpp:1691]: German Reich is declaring war on Chile
+[23:46:02][1941.05.19.03][effectbase.cpp:1691]: Yugoslavia is declaring war on Chile
+[23:46:02][1941.05.19.03][effectbase.cpp:1691]: Japanese Shogunate is declaring war on Chile
+[23:46:02][1941.05.19.03][effectbase.cpp:1691]: Legionary Romania is declaring war on Chile
+[23:46:02][1941.05.19.03][effectbase.cpp:1691]: Albania is declaring war on Chile
+[23:46:02][1941.05.19.03][effectbase.cpp:1691]: Mengkukuo is declaring war on Chile
+[23:46:02][1941.05.19.03][effectbase.cpp:1691]: Slovakia is declaring war on Chile
+[23:46:02][1941.05.19.03][effectbase.cpp:1691]: Peru is declaring war on Luxembourg
+[23:46:02][1941.05.19.03][effectbase.cpp:1691]: Peru is declaring war on Belgium
+[23:46:02][1941.05.19.03][effectbase.cpp:1691]: Peru is declaring war on Dutch Rijk
+[23:46:02][1941.05.19.03][effectbase.cpp:1691]: Peru is declaring war on Kingdom of Greece
+[23:46:02][1941.05.19.03][effectbase.cpp:1691]: Peru is declaring war on Norway
+[23:46:02][1941.05.19.03][effectbase.cpp:1691]: Peru is declaring war on Denmark
+[23:46:02][1941.05.19.03][effectbase.cpp:1691]: Peru is declaring war on United Kingdom
+[23:46:02][1941.05.19.03][effectbase.cpp:1691]: Peru is declaring war on Free France
+[23:46:02][1941.05.19.03][effectbase.cpp:1691]: Peru is declaring war on Dominion of Canada
+[23:46:02][1941.05.19.03][effectbase.cpp:1691]: Peru is declaring war on New Zealand
+[23:46:02][1941.05.19.03][effectbase.cpp:1691]: Peru is declaring war on South Africa
+[23:46:02][1941.05.19.03][effectbase.cpp:1691]: Peru is declaring war on British Raj
+[23:46:02][1941.05.19.03][effectbase.cpp:1691]: Peru is declaring war on Iceland
+[23:46:02][1941.05.19.03][effectbase.cpp:1691]: Peru is declaring war on British Malaya
+[23:46:02][1941.05.19.03][effectbase.cpp:1691]: Peru is declaring war on Dutch East Indies
+[23:46:02][1941.05.19.03][effectbase.cpp:1691]: Peru is declaring war on Union of Soviet Republics
+[23:53:13][1941.06.02.01][effectbase.cpp:1691]: Fatherland Front probability: -85
+[23:53:13][1941.06.02.01][effectbase.cpp:1691]: Fatherland Front Random chance: 45.611
+[23:57:48][1941.06.09.01][effectbase.cpp:1691]: Fatherland Front probability: -85
+[23:57:48][1941.06.09.01][effectbase.cpp:1691]: Fatherland Front Random chance: 28.001
+[23:59:10][1941.06.16.01][effectbase.cpp:1691]: Fatherland Front probability: -85
+[23:59:10][1941.06.16.01][effectbase.cpp:1691]: Fatherland Front Random chance: 26.472
+[23:59:26][1941.06.23.01][effectbase.cpp:1691]: Fatherland Front probability: -85
+[23:59:26][1941.06.23.01][effectbase.cpp:1691]: Fatherland Front Random chance: 69.612
+[00:00:58][1941.06.30.01][effectbase.cpp:1691]: Fatherland Front probability: -85
+[00:00:58][1941.06.30.01][effectbase.cpp:1691]: Fatherland Front Random chance: 56.909
+[00:01:14][1941.07.07.01][effectbase.cpp:1691]: Fatherland Front probability: -85
+[00:01:14][1941.07.07.01][effectbase.cpp:1691]: Fatherland Front Random chance: 47.632
+[00:02:10][1941.07.14.01][effectbase.cpp:1691]: Fatherland Front probability: -85
+[00:02:10][1941.07.14.01][effectbase.cpp:1691]: Fatherland Front Random chance: 85.245
+[00:02:17][1941.07.21.01][effectbase.cpp:1691]: Fatherland Front probability: -85
+[00:02:17][1941.07.21.01][effectbase.cpp:1691]: Fatherland Front Random chance: 4.695
